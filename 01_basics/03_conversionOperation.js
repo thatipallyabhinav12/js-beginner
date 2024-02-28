@@ -24,5 +24,18 @@ let convertedIsLoggedIn = Boolean(isLoggedIn)
 let someNumber = 33
 let stringNumber = String(someNumber)
 
-console.log(someNumber)
-console.log(typeof someNumber)
+// console.log(someNumber)
+// console.log(typeof someNumber)
+
+//*************** Operators ****************
+
+// console.log("2" + 1 + 2)
+// console.log(1 + 2 + "3")
+
+// console.log(+true)
+// console.log(true+) 
+// console.log(+"")
+// console.log(""+)
+
+//prefix & postfix
+
