@@ -30,3 +30,10 @@
 // Type of Language are of two - static & dynamic
 // statically types - type-checking done at compile time
 // dynamically types - type-checking done at run-time
+
+
+// ******************************************************************
+
+// Stack (used by Primitive) - copy of the data is accessed
+// Heap (used by Non-Primitive) - reference (address) of the data is accessed
+// Notice - Non-Primitve data items are displayed in stack, but point to a memory in heap
