@@ -10,22 +10,22 @@
 
 // Reference (Non- primitive) : Array, Object, Function  //(all of them are accessed by call-by-reference)
 // array returns array object, function returns function object, object returns an object
-const arrVar = ["Abhinav", 20, {
-    cgpa : 8.13
-}]
+// const arrVar = ["Abhinav", 20, {
+//     cgpa : 8.13
+// }]
 
-console.log(typeof arrVar)
+// console.log(typeof arrVar)
 
-const objVar = {
-    name : "Abhinav",
-    age : 20
-}
+// const objVar = {
+//     name : "Abhinav",
+//     age : 20
+// }
 
-const funcVar = function() {
-    console.log("hello");
-}
+// const funcVar = function() {
+//     console.log("hello");
+// }
 
-console.log(typeof funcVar)
+// console.log(typeof funcVar)
 
 // Type of Language are of two - static & dynamic
 // statically types - type-checking done at compile time
